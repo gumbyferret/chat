@@ -1,0 +1,6 @@
+{
+  "name": "Socket.io chat",
+  "version": "0.0.1",
+  "description": "First node.js program using Socket.io",
+  "dependencies": {}
+}
